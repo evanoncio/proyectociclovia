@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Jules AI Agent" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <name>Sample Route for Testing</name>
+  <time>2023-10-27T10:00:00Z</time>
+ </metadata>
+ <trk>
+  <name>Test Track</name>
+  <trkseg>
+   <trkpt lat="34.0522" lon="-118.2437">
+    <ele>70.0</ele>
+    <time>2023-10-27T10:00:00Z</time>
+   </trkpt>
+   <trkpt lat="34.0523" lon="-118.2438">
+    <ele>71.0</ele>
+    <time>2023-10-27T10:00:05Z</time>
+   </trkpt>
+   <trkpt lat="34.0524" lon="-118.2439">
+    <ele>72.0</ele>
+    <time>2023-10-27T10:00:10Z</time>
+   </trkpt>
+   <trkpt lat="34.0525" lon="-118.2440">
+    <ele>73.0</ele>
+    <time>2023-10-27T10:00:15Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
